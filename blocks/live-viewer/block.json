@@ -1,0 +1,18 @@
+{
+  "apiVersion": 2,
+  "name": "bm/live-viewer",
+  "title": "Live Viewer",
+  "icon": "video-alt",
+  "description": "A live player for The Events Calendar.",
+  "category": "layout",
+  "textdomain": "events-calendar-live-viewer",
+  "keywords": [],
+  "attributes": {},
+  "supports": {
+    "anchor": true,
+    "html": false
+  },
+  "editorScript": "bm-block-live-viewer",
+  "editorStyle": "bm-block-live-viewer-editor",
+  "style": "bm-block-live-viewer"
+}
