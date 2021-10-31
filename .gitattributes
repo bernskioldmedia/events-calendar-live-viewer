@@ -20,12 +20,14 @@ package.json			export-ignore
 package-lock.json		export-ignore
 webpack.config.js		export-ignore
 phpstan.neon			export-ignore
+.php-cs-fixer.dist.php  export-ignore
 
 .github					export-ignore
 .git                 	export-ignore
 .gitkeep			 	export-ignore
 
 /assets					export-ignore
+/config         export-ignore
 
 ##
 # Don't try and diff these...
