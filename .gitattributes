@@ -28,6 +28,7 @@ phpstan.neon			export-ignore
 
 /assets					export-ignore
 /config         export-ignore
+/blocks/*/*.js  export-ignore
 
 ##
 # Don't try and diff these...
